@@ -17,7 +17,7 @@ Here's a quick overview of the main directories in the project:
 
 - **`public/assets/`**: This directory is used for storing static files such as images, icons, or fonts that are publicly accessible.
 
-## ▶️ Getting Started
+## Getting Started
 
 Follow the steps below to run the project locally:
 
